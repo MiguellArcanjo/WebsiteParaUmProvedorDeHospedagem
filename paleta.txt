@@ -1,0 +1,18 @@
+1-Paletas da primeira pagina
+
+#fff
+#f1f3f7
+#f6f6f6
+#a89f9f
+#233032
+#2f86d6
+
+2 - Paletas da Segunda Pagina
+
+#fff
+#f1f3f7
+#f6f6f6
+#a8a4a4
+#233032
+#2f86d6
+rgba(47, 134, 214, 1)
