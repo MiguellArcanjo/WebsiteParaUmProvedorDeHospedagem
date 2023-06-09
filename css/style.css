@@ -1,6 +1,55 @@
 body {
     margin: 0;
-    padding: 0;
+
     box-sizing: border-box;
     font-family: "poppins";
+}
+
+.topo {
+    /* border: 10px solid red; */
+    /* background: gray */
+    width: 100%;
+    height: 170px;
+    position: relative;
+}
+
+.img-logoCor {
+    height: 70px;
+    margin-top: 12%;
+}
+
+.lista-nav {
+    margin-top: -7%;
+    margin-left: 50%;
+}
+
+.lista-nav li {
+    display: inline-block;
+    margin: 7px;
+}
+
+.lista-nav li a {
+    text-decoration: none;
+}
+
+.tituloLogo {
+    position: absolute;
+    bottom: 43%;
+    font-size: 27px;
+    left: 400px;
+}
+
+.paragrafoLogo {    
+    position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5%;
+    bottom: 60px;
+}
+
+.imgsubp {
+    height: 170px;
+    width: 300px;
+    /* position: absolute; */
+    margin-left: 20%;
 }
