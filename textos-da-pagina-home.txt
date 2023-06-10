@@ -1,24 +1,3 @@
-TÍTULO DA PÁGINA HOME
-AlfaTech
-
-TEXTO DO TOPO
-
-<logo>
-	<titulo> AlfaTech
-	<paragrafo> Soluções em hospedagem
-	<links> INFORMAÇÕES / PLANOS / PREÇOS / CONTATO
-	
-TEXTO DO BANNER
-
-<paragrafo> Simples - Fácil de usar - 10x mais rápido
-<subtitulo> O melhor serviço de hospedagem na web para o seu site.
-<paragrafo> Obtenha a melhor velocidade para o seu site. Não perca mais clientes por causa de lentidão na sua hospedagem.
-
-TEXTO DO PRIMEIRO ANUNCIO
-
-<subtitulo> Hospede o seu site por apenas R$29 por mês.
-<paragrafo> Também temos planos gratuitos. Adquira já o seu.
-<link> TABELA DE PREÇOS
 
 TEXTO DA SEÇÃO INFORMAÇÕES
 
